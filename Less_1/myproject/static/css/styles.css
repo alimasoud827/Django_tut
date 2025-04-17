@@ -8,5 +8,9 @@ body{
     display: grid;
     place-content: center;
     background: #000;
+    font-size: 2rem;
     color: whitesmoke;
+}
+.h1 p{
+    text-align: center;
 }
